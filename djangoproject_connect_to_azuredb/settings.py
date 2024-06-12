@@ -80,8 +80,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'mssql',
         'NAME': 'vaishalidb',
-        'USER': 'vaishaliadmin',
-        'PASSWORD': 'vinay1986!',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'vaishaliserver.database.windows.net',
         'PORT': '',
         'OPTIONS': {
